@@ -23,3 +23,6 @@ and the return is : _<b>'my text that i want encode'</b>_
 
 # Secret
  It's important that you use a very scrambled string to be your secret
+# Errors
+If you use the wrong secret an object with an error will be show :
+_<b>{message: "Invalid secret"}</b>_
